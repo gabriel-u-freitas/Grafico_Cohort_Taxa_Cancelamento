@@ -1,4 +1,4 @@
-[SQL + Python] Projeto de análise Cohort para entender a evolução da taxa de churn (em cada safra!) de contratos de planos de telefonia pós pago. 
+[SQL + Python] Projeto de análise Cohort para entender a evolução da taxa de churn (em cada safra!) de contratos de planos de telefonia pós-pago. 
 
 Os dados brutos fictícios (database com tabela 'contratos') foram criados por mim utilizando SQL (DDL) com auxílio do ChatGPT4.
 
